@@ -1,0 +1,45 @@
+[
+    {
+        "id": "G8",
+        "name": "Satya",
+        "age": 18,
+        "country": "India"
+      
+    },
+    {
+        "id": "A0",
+        "name": "Pranitha",
+        "age": 20,
+        "country": "US-Africa"
+       
+    },
+    {
+        "id": "G7",
+        "name": "Santhosh",
+        "age": 21,
+        "country": "India"
+       
+    },
+    {
+        "id": "G3",
+        "name": "Shakina",
+        "age": 23,
+        "country": "Portugal"
+      
+    },
+    {
+        "id": "J8",
+        "name":"ram",
+        "age": 20,
+        "country": "USA"
+   
+    },
+    {
+        "id": "A3",
+        "name": "Krish",
+        "age": "123",
+        "country": "Insomnia"
+       
+    }
+    
+]
